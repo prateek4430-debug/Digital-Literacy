@@ -1,93 +1,87 @@
 # Digital Literacy Project
-### CSE0001 | VIT Bhopal University
 
-- **Name:** Prateek Bharadwaj
-- **Reg No.:** 25BAI10532
-- **Branch:** CSE (AI & ML)
-- **Year:** 1st Year
-- **Course Code:** CSE0001
+**CSE0001 | VIT Bhopal University**
 
----
-
-## About This Project
-This project is part of the CSE0001 Digital Literacy course 
-at VIT Bhopal University. As a Student Digital Ambassador, 
-I have completed five tasks that cover essential digital 
-skills every student needs today.
+**Name:** Prateek Bharadwaj
+**Registration Number:** 25BAI10532
+**Branch:** CSE (AI & ML)
+**Year:** 1st Year
 
 ---
 
-## Task 1 – Digital Literacy Infographic
-I created a one-page infographic using Canva that explains 
-what digital literacy means, safe internet practices, and 
-the importance of a professional online presence.
-📁 See folder: task-1-presentation/
+## 📌 Project Overview
+
+This project is part of the Digital Literacy course (CSE0001) at VIT Bhopal University. As part of this assignment, I worked as a Student Digital Ambassador and completed a series of tasks designed to develop essential digital skills.
+
+The project focuses on building awareness about digital tools, creating a professional online presence, understanding communication etiquette, and learning about online safety. All activities are organized into five modules, each covering a specific aspect of digital literacy.
 
 ---
 
-## Task 2 – Student Digital Portfolio
-I set up my professional digital presence on three platforms:
-- **GitHub** – For sharing code and projects
-- **LinkedIn** – For professional networking
-- **Kaggle** – For data science and ML practice
+## 📚 Module Summaries
 
-📁 See folder: task-2-portfolio/
+### **Module 1 – Digital Literacy Awareness**
 
----
-
-## Task 3 – Coding & Collaboration Platforms
-- Completed multiple Python challenges on **HackerRank**
-  (305/400 points)
-- Created a **Digital Literacy Awareness Quiz** using 
-  Google Forms with 5 questions for my batchmates
-
-🔗 Google Form Link: (paste your form link here)
-📁 See folder: task-3-platforms/
+This module introduced the concept of digital literacy and its importance in academic and professional life. I created a visual infographic using Canva that highlights key ideas such as safe internet practices, useful digital tools, and maintaining a professional online identity.
+📁 Folder: `task-1-presentation/`
 
 ---
 
-## Task 4 – Email Etiquette
-- Wrote a professional email to a professor requesting 
-  a deadline extension
-- Wrote a professional email to a company expressing 
-  interest in a summer internship
-- Created a Social Media Do's and Don'ts checklist
+### **Module 2 – Building a Digital Portfolio**
 
-📁 See folder: task-4-email-etiquette/
+In this module, I learned how to establish a professional presence online. I created and updated profiles on platforms like GitHub, LinkedIn, and Kaggle. This helped me understand how these platforms can be used for showcasing skills, networking, and future career growth.
+📁 Folder: `task-2-portfolio/`
 
 ---
 
-## Task 5 – Cybercrime Awareness
-- Wrote a detailed case study on **UPI/Online Payment Fraud**
-- Created a Stay Safe Online prevention checklist with 
-  8 tips specifically for Indian college students
+### **Module 3 – Coding and Collaboration Platforms**
 
-🚨 Report cybercrime at: cybercrime.gov.in
+This module focused on practical exposure to coding platforms and collaborative tools. I completed beginner-level Python challenges on HackerRank and gained hands-on experience. Additionally, I created a Digital Literacy Awareness Quiz using Google Forms to engage my peers.
+
+🔗 Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSd_4xr0QlIHiOdKQaYMl-u0R-4gIXvCeaeUqMTlT0GsJIWnKA/viewform?usp=publish-editor
+📁 Folder: `task-3-platforms/`
+
+---
+
+### **Module 4 – Professional Communication & Email Etiquette**
+
+This module emphasized the importance of clear and professional communication. I drafted two formal emails—one to a professor and another to a company—and created a checklist outlining responsible social media behavior for students.
+📁 Folder: `task-4-email-etiquette/`
+
+---
+
+### **Module 5 – Cybercrime Awareness and Prevention**
+
+In this module, I explored common cyber threats, focusing on UPI/Online Payment Fraud. I prepared a case study explaining how such frauds occur and designed a prevention checklist with practical safety tips for students.
+
+🚨 Report cybercrime: https://cybercrime.gov.in
 📞 Helpline: 1930
-
-📁 See folder: task-5-cybercrime/
+📁 Folder: `task-5-cybercrime/`
 
 ---
 
-## Repository Structure
+## 📂 Repository Structure
+
 ```
 Digital-Literacy/
 ├── README.md
 ├── report/
 │   └── Project_Report.docx
 ├── task-1-presentation/
-│   └── Task1-infographic.png
 ├── task-2-portfolio/
-│   └── (profile screenshots)
 ├── task-3-platforms/
-│   └── (hackerrank + google form screenshots)
 ├── task-4-email-etiquette/
-│   ├── email1-deadline-extension.png
-│   ├── email2-internship.png
-│   └── social-media-checklist.txt
 └── task-5-cybercrime/
-    ├── casestudy.md
-    └── prevention-checklist.md
 ```
 
 ---
+
+## 🔗 Important Links
+
+* Google Form Quiz: https://docs.google.com/forms/d/e/1FAIpQLSd_4xr0QlIHiOdKQaYMl-u0R-4gIXvCeaeUqMTlT0GsJIWnKA/viewform?usp=publish-editor
+* Cyber Crime Portal: https://cybercrime.gov.in
+
+---
+
+## ✅ Conclusion
+
+This project helped me develop practical digital skills that are essential for students in today’s technology-driven world. From creating a professional online identity to understanding cybersecurity risks, each module contributed to improving my overall digital awareness and responsibility.
